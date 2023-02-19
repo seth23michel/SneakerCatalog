@@ -1,0 +1,11 @@
+body {
+    padding: 0;
+    margin: 0;
+    background-image: url("img/etc/hero_image.svg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center bottom;
+    min-height: 400px;
+    overflow: hidden;
+    height: 100vh;
+  }
